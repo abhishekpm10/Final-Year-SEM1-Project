@@ -1,4 +1,4 @@
-# FY-SEM1-Project
+# Final-Year-SEM1-Project
 This project detects your emotion from your face and play songs according to detected emotion 
 
 To run this project on your local machine follow below steps:
